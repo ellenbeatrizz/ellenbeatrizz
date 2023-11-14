@@ -2,7 +2,7 @@
 
 Meu nome é Ellen Beatriz
 
-- Estou estudando no Alura
+- Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaSCript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
