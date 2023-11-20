@@ -7,5 +7,6 @@ Meu nome é Ellen Beatriz
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 ### Você entrar em contato comigo 📫
+faria.ellen@escola.pr.gov.br
 
 ![](https://media.tenor.com/Ob8_ClbDEmEAAAAM/nerd-nerd-glasses.gif)
